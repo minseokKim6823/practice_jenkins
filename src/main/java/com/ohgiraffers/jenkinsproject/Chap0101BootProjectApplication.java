@@ -1,13 +1,13 @@
-package com.ohgiraffers.jenkins_project;
+package com.ohgiraffers.jenkinsproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JenkinsProjectApplication {
+public class Chap0101BootProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JenkinsProjectApplication.class, args);
+        SpringApplication.run(Chap0101BootProjectApplication.class, args);
     }
 
 }
